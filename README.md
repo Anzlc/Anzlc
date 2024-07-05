@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a **Chess game**
 
 - 🌱 I’m currently learning **Rust,...**
-- Professional Java hater
+- Java hater
 - Rust enjoyer 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
